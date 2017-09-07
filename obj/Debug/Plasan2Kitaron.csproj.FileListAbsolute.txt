@@ -1,0 +1,11 @@
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.csprojResolveAssemblyReference.cache
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.Properties.Resources.resources
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.csproj.GenerateResource.Cache
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.csproj.CoreCompileInputs.cache
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\bin\Debug\Plasan2Kitaron.exe.config
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\bin\Debug\Plasan2Kitaron.exe
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\bin\Debug\Plasan2Kitaron.pdb
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.Form1.resources
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.exe
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.pdb
+D:\practice\Palsan2Kitaron\Palsan2Kitaron\obj\Debug\Plasan2Kitaron.bigMessageBox.resources
